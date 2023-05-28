@@ -47,7 +47,7 @@ function AppComponent() {
                 Calidad de Aire
             </div>
              <p className="card-body text-center">
-                 <span className="good">11 (PM2.5)</span>
+                 <span className="good">25.99 (PM2.5)</span>
                  <span>µg/m3</span>
             </p>
 
